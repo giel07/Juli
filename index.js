@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Enserio perdoname te prometo que ya no va a volver a pasar, no te vas a arrepentir Juli')
+    alert('Enserio perdoname te prometo que ya no va a volver a pasar, no te vas a arrepentir Juli.')
 });
 
 const noBtn = document.querySelector('#noBtn');
